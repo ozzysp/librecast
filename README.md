@@ -33,9 +33,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
@@ -63,7 +63,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="[https://avatars.githubusercontent.com/u/37452836?v=4](https://github.com/account)"
+      src="[https://avatars.githubusercontent.com/u/37452836?v=4]"
     />
     <p>&nbsp&nbsp&nbspOzzy Azevedo<br>
     &nbsp&nbsp&nbsp
