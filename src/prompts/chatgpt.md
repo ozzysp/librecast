@@ -5,7 +5,6 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Título  | Crie um título de um podcast sobre o tema de Docker, o ebook é do nicho de programação e o subnicho é de Docker, o título deve ser épico e curto, e tenha uma temática de mar no título, me liste 5 variações de títulos                                                        |
-| Conteúdo | Faça um texto para um podcast , com foco em Docker, listando os principais recursos Docker com exemplos em código
-| Regras | Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico | Faça uma rápida apresentação e apresente 2 blocos de texto.
-
+|  Título  | Crie um roteiro de um podcast sobre o tema de Docker, o roteiro é para o nicho de programação e o subnicho é de Docker, o título deve ser épico e curto, e tenha uma temática                                                      |
+| Conteúdo | O roteiro deve apresentar os principais recursos Docker com exemplos de uso.
+| Regras | Explique sempre de uma maneira simples , informe as fontes de onde vc tirou as informações | Faça uma rápida apresentação e apresente 2 blocos de texto e no final faça um encerramento bem humorado chamando para o próximo podcast.
